@@ -1,6 +1,6 @@
-<h2>Hi there <img alt="Night Coding" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width='40' align="left"/>
+<img alt="Night Coding" src="https://github.com/eamigo86/eamigo86/blob/main/assets/Hi.gif?raw=true" width='40' align="left"/><h2>Hi there </h2>
 
-![Banner](https://github.com/eamigo86/eamigo86/blob/master/assets/header.png)
+![Banner](https://github.com/eamigo86/eamigo86/blob/main/assets/header.png?raw=true)
 
 
 ### 👨🏻‍💻 &nbsp;About Me
