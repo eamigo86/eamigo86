@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width='40' align="left"/><h2>Hey there</h2>
+<h2>Hi there <img alt="Night Coding" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width='40' align="left"/>
+
+![Banner](https://github.com/eamigo86/eamigo86/blob/master/assets/header.png)
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -51,4 +53,7 @@
   <a href="https://github.com/eamigo86"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub Ernesto"/></a>
   <a href="https://www.linkedin.com/in/eamigo86/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:eamigop86@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
+</p>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eamigo86.eamigo86" alt="visitor badge"/>       
 </p>
