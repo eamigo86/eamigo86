@@ -1,9 +1,9 @@
-<img alt="Night Coding" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width='40' align="left"/><h2>Hey there, I'm Ernesto</h2>
+<img alt="Night Coding" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width='40' align="left"/><h2>Hey there</h2>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨🏽‍💻  I love coding in Python 🐍, and actually working with **Django, Docker, GraphQL and PostgreSQL** too.
+👨🏽‍💻  I'm Ernesto, a self-motivated tech enthusiast and Python 🐍 lover. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
 
 🌱  I'm currently learning **Flutter**.
 
@@ -38,7 +38,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/eamigo86">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eamigo86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eamigo86&layout=compact&langs_count=8&theme=algolia"/>
