@@ -27,10 +27,11 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;\
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
@@ -47,7 +48,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://github.com/eamigo86"><img src="https://img.shields.io/github/followers/eamigo86.svg?label=GitHub&style=social" alt="GitHub Ernesto"></a>
-  <a href="https://linkedin.com/in/eamigo86"><img src="https://img.shields.io/badge/-Ernesto%20Pérez%20Amigo-0077B5?style=flat&logo=Linkedin"/></a>
-  <a href="mailto:eamigop86@gmail.com"><img src="https://img.shields.io/badge/-eamigop86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/eamigo86"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub Ernesto"/></a>
+  <a href="https://www.linkedin.com/in/eamigo86/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:eamigop86@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
 </p>
