@@ -1,11 +1,13 @@
-<img alt="Night Coding" src="https://github.com/eamigo86/eamigo86/blob/main/assets/Hi.gif?raw=true" width='40' align="left"/><h2>Hi there </h2>
-
 ![Banner](https://github.com/eamigo86/eamigo86/blob/main/assets/header.png?raw=true)
 
 
-### 👨🏻‍💻 &nbsp;About Me
 
-👨🏽‍💻  I'm Ernesto, a self-motivated tech enthusiast and Python 🐍 lover. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
+<img alt="Night Coding" src="https://github.com/eamigo86/eamigo86/blob/main/assets/Hi.gif?raw=true" width='40' align="left"/>
+
+### Hi there, I'm Ernesto
+
+👨🏽‍💻  A self-motivated tech enthusiast and Python 🐍 lover. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
+Striving to maintain the perfect balance between It doesn't work...! Why? vs It works...! Why?.
 
 🌱  I'm currently learning **Flutter**.
 
