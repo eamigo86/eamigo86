@@ -7,7 +7,8 @@
 ### Hi there, I'm Ernesto
 
 👨🏽‍💻  A self-motivated tech enthusiast and Python 🐍 lover. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
-Striving to maintain the perfect balance between It doesn't work...! Why? vs It works...! Why?.
+
+<img src="assets/stubparrot.gif" height="30"> Striving to maintain the perfect balance between It doesn't work...! Why? vs It works...! Why?.
 
 🌱  I'm currently learning **Flutter**.
 
@@ -42,12 +43,18 @@ Striving to maintain the perfect balance between It doesn't work...! Why? vs It 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p>
 <a href="https://github.com/eamigo86">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eamigo86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eamigo86&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### :sparkles: Featured project
+
+<a href="https://github.com/eamigo86/graphene-django-extras" float="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eamigo86&repo=graphene-django-extras&theme=tokyonight" height="150" />
+</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
