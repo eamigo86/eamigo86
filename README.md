@@ -8,7 +8,7 @@
 
 👨🏽‍💻  A self-motivated tech enthusiast and Python 🐍 lover. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
 
-<img src="assets/stubparrot.gif" height="30"> Striving to maintain the perfect balance between It doesn't work...! Why? vs It works...! Why?.
+<img src="assets/stubparrot.gif" height="30"> Striving to maintain the perfect balance between **It doesn't work...! Why?** vs **It works...! Why?**.
 
 🌱  I'm currently learning **Flutter**.
 
