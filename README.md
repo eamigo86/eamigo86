@@ -6,15 +6,19 @@
 
 ### Hi there, I'm Ernesto
 
-👨🏽‍💻  A self-motivated tech enthusiast and Python 🐍 lover. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
+👨🏽‍💻  &nbsp; A self-motivated tech enthusiast and Python 🐍 &nbsp; evangelist. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
 
-<img src="assets/stubparrot.gif" height="30"> Striving to maintain the perfect balance between **It doesn't work...! Why?** vs **It works...! Why?**.
+<img src="assets/stubparrot.gif" height="30"> Striving to maintain the perfect balance between ***It doesn't work...! Why?*** vs ***It works...! Why?***.
 
-🌱  I'm currently learning **Flutter**.
+🌱 &nbsp; I'm currently learning **Flutter** and loving it ❤
 
-👨🏽‍🎓 One of my **biggest motivations** is to **learn**.
+👨🏽‍🎓 &nbsp; One of my **biggest motivations** is to **learn**.
 
-😍  I love attending *developer meetings, conferences, holding workshops,* and *sharing knowledge*.
+😍  &nbsp; I love attending *developer meetings, conferences, holding workshops,* and *sharing knowledge*.
+
+🤩 &nbsp; Perfect job would be 60% Backend, 25% DevOps, and 15% Frontend.
+
+🙋‍♂️ &nbsp; Pronouns: He/Him
 
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.eamigo86.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
