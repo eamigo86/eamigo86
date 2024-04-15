@@ -6,7 +6,7 @@
 
 ### Hi there, I'm Ernesto
 
-👨🏽‍💻  &nbsp; A self-motivated tech enthusiast and Python 🐍 &nbsp; evangelist. Actually working as Backend Developer at MrMilu with **Python, Django, Docker, GraphQL and PostgreSQL**.
+👨🏽‍💻  &nbsp; A self-motivated tech enthusiast and Python 🐍 &nbsp;evangelist. Actually working as Senior Backend Developer at ISN with **Python, Django, Docker, GraphQL and PostgreSQL**.
 
 <img src="assets/stubparrot.gif" height="30"> Striving to maintain the perfect balance between ***It doesn't work...! Why?*** vs ***It works...! Why?***.
 
@@ -16,35 +16,40 @@
 
 😍  &nbsp; I love attending *developer meetings, conferences, holding workshops,* and *sharing knowledge*.
 
-🤩 &nbsp; Perfect job would be 60% Backend, 25% DevOps, and 15% Frontend.
+🤩 &nbsp; Perfect job would be 70% Backend, 20% DevOps, and 10% Frontend.
 
 🙋‍♂️ &nbsp; Pronouns: He/Him
 
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.eamigo86.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
+<!--📄 &nbsp;Please have a look at my [Resume](https://www.eamigo86.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![Rust](https://img.shields.io/badge/-Rust-05122A.svg?style=flat&logo=rust)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=blue)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=blue)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
+![React Native](https://img.shields.io/badge/-React_Native-05122A.svg?style=flat&logo=react)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-05122A.svg?style=flat&logo=tailwind-css)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A.svg?style=flat&logo=google-cloud)
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;\
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+<!--![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;-->
+<!--![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
